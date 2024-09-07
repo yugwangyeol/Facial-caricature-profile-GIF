@@ -1,0 +1,15 @@
+device: cuda
+guidance_scale: 10.5
+image_path: input/uploaded_image.png
+latents_path: /content/drive/MyDrive/2024_ADV_Toy/DiffStyler/save_diff_forward
+lora_name: "\uD0A4\uD0A4"
+mask: selected_mask
+n_timesteps: 50
+negative_prompt: ugly, blurry, black, low res, unrealistic
+output_path: results/output
+pnp_attn_t: 0.5
+pnp_f_t: 0.8
+prompt: ''
+prompt_gene: painting of <sss>, human
+sd_version: '2.1'
+seed: 1
