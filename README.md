@@ -1,5 +1,6 @@
 # 얼굴 캐리커처 프로필 이미지 및 GIF 애니메이션 생성
 ### Contents
+
 1. <a href="#배경-및-목적">배경 및 목적</a><br>
 2. <a href="#주최주관--팀원">주최/주관 & 팀원</a><br>
 3. <a href="#프로젝트-기간">프로젝트 기간</a><br>
@@ -12,17 +13,20 @@
 
 
 ### 1. 배경 및 목적
+
 - 사람에 따라 GitHub 프로필 등 공개적인 플랫폼에 자신의 증명사진을 올리는 것이 부담스러울 수 있음
 - 실제 얼굴 사진을 기반으로 사용자의 특징을 반영한 캐리커쳐를 생성하고, GIF 애니메이션으로 변환
 
 
 ### 2. 주최/주관 & 팀원
+
 - 주최/주관 : AI빅데이터융합경영학과 인공지능 학회 X:AI
 
 - 총 5인 [권민지, 김서령, 김진하. 유광열(팀장), 조현식]
 
 
 ## 3. 프로젝트 기간 
+
 - 2024.07~ 2024.08 (2개월)
 
 
@@ -49,7 +53,6 @@
 **Image2Video**  
 <img src="https://github.com/user-attachments/assets/89968ca8-ac13-496d-8e77-96734319e067" width="700">
 
-<hr style="border: 0; height: 1px; background-color: #e1e4e8;" />
 
 ### 5. Inference
 
@@ -62,6 +65,5 @@
 
 ## 6. Demo
 
-<hr style="border: 0; height: 1px; background-color: #e1e4e8;" />
 
 ## 발표 자료
