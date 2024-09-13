@@ -78,6 +78,10 @@ pip install -r requirements.txt
 cd ../
 ```
 
+3. 아래 코드를 실행하면 Gradio가 실행됩니다.
+'''
+python main.py
+'''
 
 ## 6. Demo
 
