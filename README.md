@@ -24,7 +24,7 @@
 - 2024.07~ 2024.08 (2개월)
 
 ### 4. 프로젝트 소개
-#### 4.1. 프로젝트 과정
+### 4.1. 프로젝트 과정
 <img src="https://github.com/user-attachments/assets/ee0d41bc-7f26-451e-b2cf-f398031ebfae" width="700">
 
 1. SAM을 사용하여 mask를 생성한다.
@@ -32,7 +32,7 @@
 3. DiffStyler는 사용자의 얼굴 사진, 스타일 이미지과 mask를 입력받아서 스타일이 반영된 캐리커처를 생성한다.
 4. Image2Video 모델인 LivePortrait에 캐리커처 이미지와 driving video를 입력하여 GIF로 변환한 최종 결과물을 출력한다. 
 
-#### 4.2. 사용한 모델
+### 4.2. 사용한 모델
 **SAN**  
 <img src="https://github.com/user-attachments/assets/2592fbc2-b439-4292-9e74-8664744d557f" width="700">
 
@@ -44,9 +44,9 @@
 
 
 ### 5. Inference
-#### 5.1 모델
+### 5.1 모델
 
-#### 5.2. Gradio
+### 5.2. Gradio
 
 
 
