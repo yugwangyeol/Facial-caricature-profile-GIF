@@ -83,9 +83,16 @@ cd ../
 python main.py
 ```
 - Colab 환경에서는 `Gradio_main.ipynb` 파일을 실행하여, 코드를 차례대로 실행하면 됩니다.
-  
-## 6. Demo
 
+  
+## 6. Result
+| Original | Mask | Style Image | DiffStyler |
+|----------|----------|----------|----------|
+|<img src="https://github.com/user-attachments/assets/95c76841-a88e-4f27-b022-a750dc66fead" width="710"> | <img src="https://github.com/user-attachments/assets/2b0e063a-2c2f-48bd-9b15-f15edfd482c3" width="800"> | <img src="https://github.com/user-attachments/assets/901b32c6-a187-400c-996f-6820f974cc0c" width="660" > |<img src = "https://github.com/user-attachments/assets/d8ec6390-6463-4aaa-b16e-3688634972c4" width="690"> | 
+
+| Driving Video | LiveProtrait |
+|----------|----------|
+|<video src="https://github.com/user-attachments/assets/5efb05cd-fd04-4197-90b0-1eeb37e39b76"> | !(https://example.com/image2.png) |
 
 ## 발표 자료
 [X:AI ADV CV1팀 Toy Project 중간발표.pdf](https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject/raw/main/발표자료/XAI_CV_Toy_project_중간발표.pdf)
