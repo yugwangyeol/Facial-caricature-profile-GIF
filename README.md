@@ -92,7 +92,7 @@ python main.py
 
 | Driving Video | LiveProtrait |
 |----------|----------|
-|<img src="https://github.com/user-attachments/assets/9788d76b-2067-47f2-a9bd-347152c9b335" height = "400"> | <img src ="https://github.com/user-attachments/assets/ae8b9eff-6a18-4a98-ac39-e471cf25c927" height = "400"> |
+|<img src="https://github.com/user-attachments/assets/9788d76b-2067-47f2-a9bd-347152c9b335" height = "500"> | <img src ="https://github.com/user-attachments/assets/ae8b9eff-6a18-4a98-ac39-e471cf25c927" height = "500"> |
 
 
 ## 발표 자료
