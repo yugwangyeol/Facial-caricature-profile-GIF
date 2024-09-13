@@ -7,8 +7,8 @@
 4. <a href="#프로젝트-소개">프로젝트 소개</a><br>
    4.1 <a href="#프로젝트-과정">프로젝트 과정</a><br>
    4.2 <a href="#모델-설명">모델 설명</a><br>
-5. <a href="#inference">Inference</a><br>
-6. <a href="#demo">Demo</a><br>
+5. <a href="#Inference">Inference</a><br>
+6. <a href="#Result">Result</a><br>
 7. <a href="#발표-자료">발표 자료</a>
 
 
