@@ -33,7 +33,7 @@
 4. Image2Video 모델인 LivePortrait에 캐리커처 이미지와 driving video를 입력하여 GIF로 변환한 최종 결과물을 출력한다. 
 
 ### 4.2. 사용한 모델
-**SAN**  
+**SAM**  
 <img src="https://github.com/user-attachments/assets/2592fbc2-b439-4292-9e74-8664744d557f" width="700">
 
 **DiffStyler**  
