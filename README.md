@@ -1,14 +1,18 @@
 # 얼굴 캐리커처 프로필 이미지 및 GIF 애니메이션 생성
+
 ## Contents
 1. [배경 및 목적](#배경-및-목적)
 2. [주최/주관 & 팀원](#주최주관--팀원)
 3. [프로젝트 기간](#프로젝트-기간)
 4. [프로젝트 소개](#프로젝트-소개)
+   
    4.1 [프로젝트 과정](#프로젝트-과정)
-   4.2 [모델 설명](#모델-설명)
+   
+   4.2 [사용한 모델](#사용한-모델)
+   
 5. [Inference](#inference)
 6. [Demo](#Demo)
-7. [발표 자료](#발표 자료)
+7. [발표 자료](#발표-자료)
 
 ## 1. 배경 및 목적
 - 사람에 따라 GitHub 프로필 등 공개적인 플랫폼에 자신의 증명사진을 올리는 것이 부담스러울 수 있음
@@ -25,21 +29,35 @@
 
 ## 4. 프로젝트 소개
 ### 4.1. 프로젝트 과정
-![image](https://github.com/user-attachments/assets/065607f1-8408-4602-bddc-cb90f93dd9f3)
+![XAI_Toy_project_최종](https://github.com/user-attachments/assets/ee0d41bc-7f26-451e-b2cf-f398031ebfae)
 1. SAM을 사용하여 mask를 생성한다.
-2. 생성된 mask 중에서 스타일 변환을 적용하고 싶은 부분의 mask만 StyleTransfer 모델에 입력한다.
+2. 생성된 mask 중에서 스타일 변환을 적용하고 싶은 부분의 mask만 StyleTransfer에 입력한다.
 3. DiffStyler는 사용자의 얼굴 사진, 스타일 이미지과 mask를 입력받아서 스타일이 반영된 캐리커처를 생성한다.
 4. Image2Video 모델인 LivePortrait에 캐리커처 이미지와 driving video를 입력하여 GIF로 변환한 최종 결과물을 출력한다. 
 
-### 4.2. 모델 설명
+### 4.2. 사용한 모델
+**SAN**
+![7](https://github.com/user-attachments/assets/2592fbc2-b439-4292-9e74-8664744d557f)
+
+
+**DiffStyler**
+![10](https://github.com/user-attachments/assets/a9087fd9-1cda-44ca-a6d5-41e207e69a56)
+
+
+**Image2Video**
+![14](https://github.com/user-attachments/assets/89968ca8-ac13-496d-8e77-96734319e067)
+
+
+## 5. Inference
+### 5.1 모델
+
+### 5.2. Gradio
 
 
 
+## 6. Demo
 
-
-
-
-
+## 발표 자료
 
 
 
