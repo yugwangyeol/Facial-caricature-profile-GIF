@@ -56,12 +56,27 @@
 
 
 ## 5. Inference
+1. git clone
+```
+git clone https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject.git
+```
 
+2. 필요한 패키지를 다운로드 해주세요.
+```
+cd 2024_XAI_ADV_CV1_Toyproject
+pip install git+https://github.com/facebookresearch/segment-anything.git
+pip install gradio
 
-### 5.1 모델
+# DiffStyler
+cd DiffStyler
+pip install -r requirements.txt
+pip install "jax[cuda12_pip]==0.4.23" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
 
-
-### 5.2. Gradio
+# LivePortrait
+cd ../LivePortrait
+pip install -r requirements.txt
+cd ../
+```
 
 
 ## 6. Demo
