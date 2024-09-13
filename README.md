@@ -82,7 +82,8 @@ cd ../
 ```
 python main.py
 ```
-
+- Colab 환경에서는 `Gradio_main.ipynb` 파일을 실행하여, 코드를 차례대로 실행하면 됩니다.
+  
 ## 6. Demo
 
 
