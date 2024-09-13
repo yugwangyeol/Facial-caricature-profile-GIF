@@ -52,9 +52,39 @@
 <img src="https://github.com/user-attachments/assets/a9087fd9-1cda-44ca-a6d5-41e207e69a56" width="700">
 
 **Image2Video**  
-<img src="https://github.com/user-attachments/assets/89968ca8-ac13-496d-8e77-967343일 |
-|----------|----------|
-| ![이미지1](https://example.com/image1.png) | ![이미지2](https://example.com/image2.png) |
+<img src="https://github.com/user-attachments/assets/89968ca8-ac13-496d-8e77-96734319e067" width="700">
+
+
+## 5. Inference
+1. git clone
+```
+git clone https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject.git
+```
+
+2. 필요한 패키지를 다운로드 해주세요.
+```
+cd 2024_XAI_ADV_CV1_Toyproject
+pip install git+https://github.com/facebookresearch/segment-anything.git
+pip install gradio
+
+# DiffStyler
+cd DiffStyler
+pip install -r requirements.txt
+pip install "jax[cuda12_pip]==0.4.23" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html
+
+# LivePortrait
+cd ../LivePortrait
+pip install -r requirements.txt
+cd ../
+```
+
+3. 아래 코드를 실행하면 Gradio가 실행됩니다.
+```
+python main.py
+```
+- Colab 환경에서는 `Gradio_main.ipynb` 파일을 실행하여, 코드를 차례대로 실행하면 됩니다.
+  
+## 6. Demo
 
 
 ## 발표 자료
