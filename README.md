@@ -94,6 +94,9 @@ python main.py
 |----------|----------|
 |<img src="https://github.com/user-attachments/assets/9788d76b-2067-47f2-a9bd-347152c9b335" height = "500"> | <img src ="https://github.com/user-attachments/assets/ae8b9eff-6a18-4a98-ac39-e471cf25c927" height = "500"> |
 
+| Gradio |
+|----------|
+|<img src="https://github.com/user-attachments/assets/97057a69-5d6a-4725-b5eb-448a3c9da02d"> |
 
 ## 발표 자료
 [X:AI ADV CV1팀 Toy Project 중간발표.pdf](https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject/raw/main/발표자료/XAI_CV_Toy_project_중간발표.pdf)
