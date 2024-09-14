@@ -101,6 +101,7 @@ python main.py
 ## 발표 자료
 [X:AI ADV CV1팀 Toy Project 중간발표.pdf](https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject/raw/main/발표자료/XAI_CV_Toy_project_중간발표.pdf)
 
-[X:AI ADV CV1팀 Toy Project 최종발표.pdf](https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject/raw/main/발표자료/XAI_CV_Toy_project_최종발표.pdf)
+[X:AI ADV CV1팀 Toy Project 최종발표.pdf](https://github.com/yugwangyeol/2024_XAI_ADV_CV1_Toyproject/raw/main/발표자료/XAI_CV_Toy_project_최종발표.pdf)  
+
 [발표 영상](https://youtu.be/act0FJvckIY)
 
